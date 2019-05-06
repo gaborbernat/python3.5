@@ -1,3 +1,9 @@
+python3.5 (3.5.1-1+xenial2) xenial; urgency=medium
+
+  * Remove DH_COMPAT=2 from dh_movefiles calls.
+
+ -- Anthony Sottile <asottile@umich.edu>  Mon, 06 May 2019 08:54:06 -0700
+
 python3.5 (3.5.1-1+xenial1) xenial; urgency=medium
 
   * Imported from Vivid package.
